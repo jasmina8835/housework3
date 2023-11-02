@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    text-align: left;
+    position: relative;
+    top: 140px;
+    left: 140px;
+}
+
+.box{
+    background-color: blue;
+    top: 60px;
+    left: 160px;
+}
+
+.box3{
+    background-color: orange;
+    top: -20px;
+    left: 180px;
+}
+
+.box4{
+    background-color: purple;
+    top: -100px;
+    left: 200px;
+}
